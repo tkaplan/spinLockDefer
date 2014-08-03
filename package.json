@@ -1,6 +1,6 @@
 {
   "name": "spinLockDefer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "This is small module that enables spin locking on mongo objects using redis locks",
   "main": "index.js",
   "scripts": {
